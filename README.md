@@ -1,8 +1,13 @@
-# PERFORMANCE SCRIPT FOR DATABASES 𓍝
+# Memory Cost (Estudo)
 
-Improving the memory cost of a database can be something very personal, depending on the situation.
-for situation, which is the best situation to be developed, would be stipulated by a professional DBA from
-company, which would look at the necessary premise and thus have an idea of ​​where to start. The grass roots problems
-of data, they will not always be resolved with just one change, it is necessary to put index, remove index, change
-want, etc. It is a process that takes time, and that has several ways to solve it, and the one that
-don't change the architecture of your base too much and still considerably improve performance, it's the most viable.
+## Descrição
+
+Em uma imersão voltada a performance em banco de dados, gerei um documento dos tópicos que considerei importantes para amenizar o custo de memória de uma aplicação diretamente pelo banco de dados. Esse projeto trata das práticas que considerei agradáveis para melhorar o custo de memória em um banco de dados.
+
+Exemplo:
+
+## Tecnologias Utilizadas
+
+As tecnologias deste projeto, são:
+
+- *SQL* 
